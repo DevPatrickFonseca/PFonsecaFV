@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Olá tudo bom! Sou o Patrick Fonseca 🤓
+
+Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e sou graduado em Administração.
+
+
+### Meus interesseis pessoais:
+- 🔭 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 🌱 Aprendendo Desenvolvimento Web
+- 💬 Pergunte-me sobre o que desejar. Gosto de conversar, aprender e ajudar
+- 📫 Como me encontrar: [por aqui](https://linktr.ee/PatrickFonseca)
+##
+## Linguagens e ferramentas que estou aprendendo:
+<!--** Ícones das habilidades que estou aprendendo-->
+
+<!--** LINUX-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<!--** GIT-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<!--** HTML5-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<!--** CSS-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
