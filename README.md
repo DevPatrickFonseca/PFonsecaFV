@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e sou graduado em Administração.
 
 
-### Meus interesseis pessoais:
+### Meus interesses pessoais:
 - 🔭 Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 - 🌱 Aprendendo Desenvolvimento Web
 - 💬 Pergunte-me sobre o que desejar. Gosto de conversar, aprender e ajudar
