@@ -78,3 +78,4 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 -----
 
+###### ⭐️ Perfil e Organização baseados em [Paulo Simões](https://github.com/paulohbsimoes) e [Thalles Carneiro](https://github.com/thalles-carneiro)
