@@ -11,6 +11,16 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 ##
 <div align="center">
+<h3>Habilidades:</h3>
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai" />
+  </a>
+</p>
+
+##
+<div align="center">
 <h3>Habilidades que estou adquirindo:</h3>
 <div align="center">
 <p align="center">
@@ -18,6 +28,8 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
     <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css,js,vscode" />
   </a>
 </p>
+  
+
 
 ##
 <div align="center">
@@ -25,10 +37,20 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,docker,jest,mysql,nodejs,ts,mongodb,py" />
+    <img src="https://skillicons.dev/icons?i=jest,react,redux,docker,mysql,express,heroku,ts,solidity,mongodb,nodejs,py" />
   </a>
 </p>
 
+##
+<div align="center">
+<h3>Habilidades que quero aprender:</h3>
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,java,ruby,aws,django,flutter" />
+  </a>
+</p>
+  
 ##
 
 <div align="center">
