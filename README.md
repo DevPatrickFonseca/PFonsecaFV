@@ -4,7 +4,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 ##
 <div align="center">
-<img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_codigo.gif"/>
+<a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_codigo.gif"/></a>
 
 
   <div align="left" style="display: inline_block">
@@ -23,7 +23,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <h3>Habilidades:</h3>
 <div align="center">
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=ps,ai" />
   </a>
 </p>
@@ -33,19 +33,17 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <h3>Habilidades que estou adquirindo:</h3>
 <div align="center">
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css,js,vscode" />
   </a>
 </p>
-  
-
 
 ##
 <div align="center">
 <h3>Habilidades que vou aprender:</h3>
 <div align="center">
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=jest,react,redux,docker,mysql,express,heroku,ts,solidity,mongodb,nodejs,py" />
   </a>
 </p>
@@ -55,7 +53,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <h3>Habilidades que quero aprender:</h3>
 <div align="center">
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,java,ruby,aws,django,flutter" />
   </a>
 </p>
