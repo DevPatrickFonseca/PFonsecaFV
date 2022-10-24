@@ -1,10 +1,10 @@
-<h2> Olá tudo bom! Sou o Patrick Fonseca 🤓</h2> 
+<h2> Olá tudo bom! Sou o Patrick Fonseca 🤓 (<a href="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/README_EN.md">English Version</a>)</h2> 
 
 Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e sou graduado em Administração.
 
 ##
 <div align="center">
-<a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_codigo.gif"/></a>
+<a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_cod_pfonsecafv.gif"/></a>
 
 
   <div align="left" style="display: inline_block">
@@ -30,7 +30,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 ##
 <div align="center">
-<h3>Habilidades que estou adquirindo:</h3>
+<h3>Habilidades que estou aprendendo:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
