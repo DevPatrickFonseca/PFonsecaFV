@@ -25,7 +25,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,redux,docker,jest,mysql,nodejs,ts,mongodb,py" />
   </a>
 </p>
 
