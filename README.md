@@ -10,17 +10,29 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 - 📫 Como me encontrar: [por aqui](https://linktr.ee/PatrickFonseca)
 
 ##
-### Linguagens e ferramentas que estou aprendendo:
-<!--** Ícones das habilidades que estou aprendendo-->
 <div align="center">
-<!--** LINUX-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><!--** GIT--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/><!--** HTML5--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><!--** CSS--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/><!--** JAVASCRIPT--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-</div>
+<h3>Habilidades que estou adquirindo:</h3>
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css,js,vscode" />
+  </a>
+</p>
 
 ##
-### **Contato:**
+<div align="center">
+<h3>Habilidades que vou aprender:</h3>
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+
+##
 
 <div align="center">
+<h3>Contato:</h3>
   <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:patrickafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pfonsecafv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,8 +41,10 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 -----
 
 <div align="center">
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pfonsecafv&theme=github_dark"/><!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pfonsecafv&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pfonsecafv&theme=github_dark"/><img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pfonsecafv&theme=github_dark"/>
+<a href="https://github.com/PFonsecaFV">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=PFonsecaFV&theme=github_dark&show_icons=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PFonsecaFV&layout=compact&theme=github_dark">
+<img height="170em" align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pfonsecafv&theme=github_dark"/>
 </div>
 
 -----
