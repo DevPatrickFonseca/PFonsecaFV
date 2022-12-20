@@ -20,7 +20,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills:</h3>
+<h3>Skills and tools I have knowledge:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -30,7 +30,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills I'm Learning:</h3>
+<h3>Skills and tools I'm learning:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -40,7 +40,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills I'll Learn:</h3>
+<h3>Skills and tools I will learn:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -50,7 +50,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills I want to learn:</h3>
+<h3>Skills and tools I want to learn:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
