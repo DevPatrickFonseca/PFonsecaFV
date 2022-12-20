@@ -20,7 +20,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 ##
 <div align="center">
-<h3>Habilidades:</h3>
+<h3>Habilidades e ferramentas que possuo conhecimento:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
