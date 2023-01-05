@@ -1,5 +1,7 @@
 <h2> Olá tudo bom! Sou o Patrick Fonseca 🤓 (<a href="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/README_EN.md">English Version</a>)</h2> 
 
+[![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
+
 Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e sou graduado em Administração.
 
 ##
