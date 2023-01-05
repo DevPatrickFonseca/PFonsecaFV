@@ -1,5 +1,7 @@
 <h2> Hello all good! I'm Patrick Fonseca 🤓</h2>  
 
+[![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
+
 I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Web Development student at [Trybe](https://www.betrybe.com/) :rocket: and I have a degree in Business Administration.
 
 ##
