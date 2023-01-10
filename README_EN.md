@@ -56,7 +56,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://skillicons.dev/icons?i=angular,c,cpp,java,ruby,aws,django,flutter" />
+    <img src="https://skillicons.dev/icons?i=angular,c,cpp,java,ruby,rust,aws,django,flutter" />
   </a>
 </p>
   
