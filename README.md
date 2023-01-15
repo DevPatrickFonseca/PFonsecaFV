@@ -2,21 +2,19 @@
 
 [![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
-Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e sou graduado em Administração.
+Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:.
 
 ##
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_cod_pfonsecafv.gif"/></a>
 
-
   <div align="left" style="display: inline_block">
-    <h3>Meus interesses pessoais:</h3>
-      <li>🔭 Atualmente estudo Desenvolvimento Web na <strong>Trybe</strong></li>
-      <li>🌱 Aprendendo Desenvolvimento Web</li>
-      <li>💻 Sou apaixonado por tecnologia</li>
-      <li>🏍️ Sou apaixonado por motos</li>
+      <li>🎓 Graduado em Administração</li>
+      <li>🔭 Estudando Desenvolvimento Web</li>
+      <li>🌱 Estudando Inglês</li>
+      <li>💻 Apaixonado por tecnologia</li>
+      <li>🏍️ Apaixonado por motos</li>
       <li>📚 Gosto de aprender</li>
-      <li>💬 Pergunte-me sobre o que desejar. Gosto de conversar, aprender e ajudar</li>
   </div>
 </div>
 
