@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
-I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Web Development student at [Trybe](https://www.betrybe.com/) :rocket: and I have a degree in Business Administration.
+I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Web Development student at [Trybe](https://www.betrybe.com/) :rocket:.
 
 ##
 <div align="center">
@@ -10,13 +10,12 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 
   <div align="left" style="display: inline_block">
-    <h3>My personal interests::</h3>
-      <li>🔭 Currently studying Web Development at  <strong>Trybe</strong></li>
-      <li>🌱 Learning Web Development</li>
-      <li>💻 I'm passionate about technology</li>
-      <li>🏍️ I'm in love with motorcycles</li>
+      <li>🎓 Bachelor of Business Administration</li>
+      <li>🔭 Learning Web Development</li>
+      <li>🌱 Learning English</li>
+      <li>💻 Passionate about technology</li>
+      <li>🏍️ Passionate about motorbikes</li>
       <li>📚 I like to learn</li>
-      <li>💬 Ask me anything you want. I like to chat, learn and help.</li>
   </div>
 </div>
 
