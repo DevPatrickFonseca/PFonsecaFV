@@ -36,7 +36,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,jest,nodejs,vite,react" />
+    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,jest,nodejs,react" />
   </a>
 </p>
 
