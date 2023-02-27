@@ -35,9 +35,9 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css" />
       <br>
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,jest,nodejs,vite,react" />
+    <img src="https://skillicons.dev/icons?i=js,vscode,bootstrap,jest,nodejs,react" />
   </a>
 </p>
 
