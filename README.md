@@ -36,7 +36,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,github,html,css" />
     <br>
-    <img src="https://skillicons.dev/icons?i=js,vscode,bootstrap,jest,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=js,vscode,bootstrap,jest,nodejs,react,redux" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://skillicons.dev/icons?i=redux,docker,mysql,express,heroku,ts,solidity,mongodb,py" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,express,heroku,ts,solidity,mongodb,py" />
   </a>
 </p>
 
