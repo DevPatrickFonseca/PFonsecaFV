@@ -54,6 +54,9 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_nodejs.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_docker.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mysql.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mocha.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
   </a>
 </p>
 
@@ -64,9 +67,6 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mocha.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_railway.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
   </a>
