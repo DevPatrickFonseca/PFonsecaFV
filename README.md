@@ -27,6 +27,8 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ps.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ai.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_figma.svg" width="64" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bash.svg" width="64" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_linux.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_vscode.svg" width="64" fill="none" />
   </a>
 </p>
@@ -37,16 +39,14 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bash.svg" width="64" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_linux.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_git.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_github.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_html.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_css.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_js.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bootstrap.svg" width="64" fill="none" />
-    <br>
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_jest.svg" width="64" fill="none" />
+    <br>
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_nodejs.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_react.svg" width="64" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_redux.svg" width="64" fill="none" />
