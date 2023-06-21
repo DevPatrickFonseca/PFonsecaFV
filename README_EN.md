@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
-I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Web Development Full Stack. [Trybe](https://www.betrybe.com/) :rocket:.
+I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Full Stack Web Developer.
 
 ##
 <div align="center">

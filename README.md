@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
-Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou Desenvolvedor Web Full Stack. [Trybe](https://www.betrybe.com/) :rocket:.
+Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou Desenvolvedor Web Full Stack.
 
 ##
 <div align="center">
