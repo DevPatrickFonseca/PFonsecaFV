@@ -102,9 +102,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 
 <div align="center">
 <a href="https://github.com/PFonsecaFV">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=PFonsecaFV&theme=github_dark&show_icons=true">
-<br />
-<img height="160em" align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pfonsecafv&theme=github_dark"/>
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=PFonsecaFV&theme=github_dark&show_icons=true">
 </div>
 
 -----
