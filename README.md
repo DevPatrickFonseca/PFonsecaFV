@@ -16,6 +16,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
       <li>💻 Passionate about technology</li>
       <li>🏍️ Passionate about motorbikes</li>
       <li>📚 I like to learn</li>
+      <li>📧 My email is <a href="mailto:patrickafonseca@gmail.com">patrickafonseca@gmail.com</a></li>
   </div>
 </div>
 
@@ -23,9 +24,9 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 <div align="center">
 <h3>Contact me:</h3>
-  <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank" rel="noreferrer noopener nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:patrickafonseca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://PFonsecaFV.github.io/" target="_blank" rel="noreferrer noopener nofollow">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/patrickfonseca/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://PFonsecaFV.github.io/">
     <img src="https://img.shields.io/badge/%20-PORTFOLIO-%230A6908?style=for-the-badge" style="max-width: 100%;" >
   </a>
 </div>
