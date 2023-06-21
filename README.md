@@ -2,10 +2,8 @@
 
 I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Full Stack Web Developer.
 
-##
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
-
 
   <div align="left" style="display: inline_block">
       <li>🎓 Bachelor of Business Administration</li>
