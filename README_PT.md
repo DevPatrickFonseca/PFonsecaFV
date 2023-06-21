@@ -17,8 +17,20 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
       <li>📚 Gosto de aprender</li>
   </div>
 </div>
+  
+##
+
+<div align="center">
+<h3>Contato:</h3>
+  <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:patrickafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://PFonsecaFV.github.io/" rel="nofollow">
+    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%230A6908?style=for-the-badge" style="max-width: 100%;">
+  </a>
+</div>
 
 ##
+
 <div align="center">
 <h3>Habilidades e ferramentas que possuo conhecimento:</h3>
 <div align="center">
@@ -85,15 +97,6 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_rust.svg" width="64" fill="none" />
   </a>
 </p>
-  
-##
-
-<div align="center">
-<h3>Contato:</h3>
-  <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:patrickafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pfonsecafv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 -----
 
