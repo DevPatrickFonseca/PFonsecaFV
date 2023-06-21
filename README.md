@@ -1,6 +1,4 @@
-<h2> Hello all good! I'm Patrick Fonseca 🤓 (<a href="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/README_PT.md">Portuguese Version</a>)</h2>  
-
-[![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
+<h2> Hello all good! I'm Patrick Fonseca 🤓</h2>  
 
 I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Full Stack Web Developer.
 
@@ -104,5 +102,6 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 </div>
 
 -----
+[![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ###### ⭐️ Profile based on [Paulo Simões](https://github.com/paulohbsimoes) and [Thalles Carneiro](https://github.com/thalles-carneiro)
