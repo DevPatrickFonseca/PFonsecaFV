@@ -1,27 +1,26 @@
-<h2> Hello all good! I'm Patrick Fonseca 🤓</h2>  
+<h2> Olá tudo bom! Sou o Patrick Fonseca 🤓 </h2> 
 
 [![](https://visitcount.itsvg.in/api?id=PFonsecaFV&icon=5&color=1)](https://visitcount.itsvg.in)
 
-I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Full Stack Web Developer.
+Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), sou Desenvolvedor Web Full Stack.
 
 ##
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
 
-
   <div align="left" style="display: inline_block">
-      <li>🎓 Bachelor of Business Administration</li>
-      <li>🔭 Learning Web Development</li>
-      <li>🌱 Learning English</li>
-      <li>💻 Passionate about technology</li>
-      <li>🏍️ Passionate about motorbikes</li>
-      <li>📚 I like to learn</li>
+      <li>🎓 Graduado em Administração</li>
+      <li>🔭 Estudando Desenvolvimento Web</li>
+      <li>🌱 Estudando Inglês</li>
+      <li>💻 Apaixonado por tecnologia</li>
+      <li>🏍️ Apaixonado por motos</li>
+      <li>📚 Gosto de aprender</li>
   </div>
 </div>
 
 ##
 <div align="center">
-<h3>Skills and tools I have knowledge:</h3>
+<h3>Habilidades e ferramentas que possuo conhecimento:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -36,7 +35,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills and tools I'm learning:</h3>
+<h3>Habilidades e ferramentas que estou aprendendo:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -60,7 +59,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills and tools I will learn:</h3>
+<h3>Habilidades e ferramentas que vou aprender:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -74,7 +73,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 ##
 <div align="center">
-<h3>Skills and tools I want to learn:</h3>
+<h3>Habilidades e ferramentas que quero aprender:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -90,7 +89,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 ##
 
 <div align="center">
-<h3>Contact:</h3>
+<h3>Contato:</h3>
   <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:patrickafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pfonsecafv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -107,4 +106,4 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 
 -----
 
-  ###### ⭐️ Profile based on [Paulo Simões](https://github.com/paulohbsimoes) and [Thalles Carneiro](https://github.com/thalles-carneiro)
+###### ⭐️ Perfil e Organização baseados em [Paulo Simões](https://github.com/paulohbsimoes) e [Thalles Carneiro](https://github.com/thalles-carneiro)
