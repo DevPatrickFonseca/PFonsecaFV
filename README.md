@@ -88,16 +88,6 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_cs.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_aws.svg" width="60" fill="none" />
-  </a>
-</p>
-
-##
-
-<div align="center">
-<h3>Skills and tools I want to learn:</h3>
-<div align="center">
-<p align="center">
-  <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_php.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_angular.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_kotlin.svg" width="60" fill="none" />
@@ -105,7 +95,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_rails.svg" width="60" fill="none" />
   </a>
 </p>
-  
+
 -----
 
 <div align="center">
