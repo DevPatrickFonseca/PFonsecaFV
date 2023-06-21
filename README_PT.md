@@ -52,6 +52,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 </p>
 
 ##
+
 <div align="center">
 <h3>Habilidades e ferramentas que estou aprendendo:</h3>
 <div align="center">
@@ -74,6 +75,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 </p>
 
 ##
+
 <div align="center">
 <h3>Habilidades e ferramentas que vou aprender:</h3>
 <div align="center">
@@ -88,6 +90,7 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 </p>
 
 ##
+
 <div align="center">
 <h3>Habilidades e ferramentas que quero aprender:</h3>
 <div align="center">
