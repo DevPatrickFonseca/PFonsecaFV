@@ -1,13 +1,17 @@
-<h2> Hello all good! I'm Patrick Fonseca 🤓</h2>  
+<div align="center">
+  
+# Hello all good! I'm Patrick Fonseca 🤓
 
-I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=Pirapora%2C+Minas+Gerais%2C+Brasil), I am a Full Stack Web Developer.
+### I am a Full Stack Web Developer from Brazil.
+
+</div>
 
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
 
   <div align="left" style="display: inline_block">
       <li>🎓 Bachelor of Business Administration</li>
-      <li>🔭 Learning Web Development</li>
+      <li>🔭 Learning programming languages and tools</li>
       <li>🌱 Learning English</li>
       <li>💻 Passionate about technology</li>
       <li>🏍️ Passionate about motorbikes</li>
@@ -30,7 +34,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 ##
 
 <div align="center">
-<h3>Skills and tools I have knowledge:</h3>
+<h3>Languages and tools I have knowledge:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -63,7 +67,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 ##
 
 <div align="center">
-<h3>Skills and tools I'm learning:</h3>
+<h3>Languages and tools I'm currently learning:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -75,7 +79,7 @@ I currently live in  :world_map: [Pirapora/MG](https://www.google.com/search?q=P
 ##
 
 <div align="center">
-<h3>Skills and tools I will learn:</h3>
+<h3>Languages and tools I will learn:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
