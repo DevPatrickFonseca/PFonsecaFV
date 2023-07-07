@@ -13,9 +13,7 @@
       <li>🎓 Bachelor of Business Administration</li>
       <li>🔭 Learning programming languages and tools</li>
       <li>🌱 Learning English</li>
-      <li>💻 Passionate about technology</li>
-      <li>🏍️ Passionate about motorbikes</li>
-      <li>📚 I like to learn</li>
+      <li>💻 Passionate about technology and motorbikes</li>
       <li>📧 My email is <a href="mailto:patrickafonseca@gmail.com">patrickafonseca@gmail.com</a></li>
   </div>
 </div>
