@@ -32,7 +32,7 @@
 ##
 
 <div align="center">
-<h3>Languages and tools I have knowledge:</h3>
+<h3>Languages, technologies and tools I have knowledge:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -66,7 +66,7 @@
 ##
 
 <div align="center">
-<h3>Languages and tools I'm currently learning:</h3>
+<h3>Languages, technologies and tools I'm currently learning:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
@@ -82,7 +82,7 @@
 ##
 
 <div align="center">
-<h3>Languages and tools I will learn:</h3>
+<h3>Languages, technologies and tools I will learn:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
