@@ -72,6 +72,7 @@
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_postgre.svg" width="60" fill="none" />
   </a>
 </p>
 
