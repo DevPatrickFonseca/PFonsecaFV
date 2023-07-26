@@ -46,6 +46,7 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_github.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_html.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_css.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_js.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bootstrap.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
@@ -70,7 +71,6 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_spring.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_hibernate.svg" width="60" fill="none" />
