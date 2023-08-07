@@ -48,6 +48,10 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_css.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_nodejs.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bootstrap.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_netlify.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_firebase.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_vercel.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_surge.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_js.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sass.svg" width="60" fill="none" />
@@ -62,7 +66,6 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sinon.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_vercel.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_railway.svg" width="60" fill="none" />
   </a>
 </p>
