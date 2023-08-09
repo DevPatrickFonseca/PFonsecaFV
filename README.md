@@ -22,9 +22,9 @@
 
 <div align="center">
 <h3>Contact me:</h3>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/patrickfonseca/">
+  <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://PFonsecaFV.github.io/">
+  <a href="https://PFonsecaFV.github.io/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/%20-PORTFOLIO-%230A6908?style=for-the-badge" style="max-width: 100%;" >
   </a>
 </div>
