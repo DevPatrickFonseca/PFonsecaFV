@@ -38,6 +38,7 @@
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ps.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ai.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_coreldrawi.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_figma.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_vscode.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bash.svg" width="60" fill="none" />
@@ -84,6 +85,7 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_springboot.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_hibernate.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_postgre.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_beaver_head.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_intellij.svg" width="60" fill="none" />
   </a>
 </p>
