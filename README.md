@@ -10,7 +10,7 @@
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
 
   <div align="left" style="display: inline_block">
-    I'm a Web Developer skilled in TypeScript, Node.js, Jest.js, React.js, MySQL, and Java. I build complete applications from Backend to Front-end. With a Business Administration degree emphasizing Management, I bring a strategic perspective to tech solutions. Former construction sector experience enriched my negotiation and customer relationship abilities.
+    Skills in TypeScript, Node.js, React, Docker, MySQL, PostgreSQL, Java... With a Business Administration degree emphasizing Management, I bring a strategic perspective to tech solutions. Former construction sector experience enriched my negotiation and customer relationship abilities.
 <br> <br>
       <li>🔭 Learning programming languages and tools</li>
       <li>🌱 Learning English</li>
