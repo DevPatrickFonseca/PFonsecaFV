@@ -41,8 +41,6 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_ai.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_coreldrawi.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_figma.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_vscode.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_intellij.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_powershell.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_bash.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_linux.svg" width="60" fill="none" />
