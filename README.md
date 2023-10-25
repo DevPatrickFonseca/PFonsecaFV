@@ -66,6 +66,8 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_redux.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_docker.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mysql.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_postgre.svg" width="60" fill="none" />
+    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sqlite.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sinon.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
@@ -88,8 +90,6 @@
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_spring.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_springboot.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_hibernate.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_postgre.svg" width="60" fill="none" />
-    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_sqlite.svg" width="60" fill="none" />
     <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_swagger.svg" width="60" fill="none" />
   </a>
 </p>
