@@ -10,11 +10,11 @@
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
 
   <div align="left" style="display: inline_block">
-    Skills in TypeScript, Node.js, React, Docker, MySQL, PostgreSQL, Java... With a Business Administration degree emphasizing Management, I bring a strategic perspective to tech solutions. Former construction sector experience enriched my negotiation and customer relationship abilities.
+    Skills in TypeScript, React.js, Next.js, Node.js, Docker, MySQL, PostgreSQL, Java and related technologies... With a Business Administration degree emphasizing Management, I bring a strategic perspective to tech solutions. Former construction sector experience enriched my negotiation and customer relationship abilities.
 <br> <br>
       <li>🔭 Learning programming languages and tools</li>
       <li>🌱 Learning English</li>
-      <li>💻 Passionate about technology and motorbikes</li>
+      <li>💻 Passionate about technology and motorcycles</li>
       <li>📧 My email is <a href="mailto:patrickafonseca@gmail.com">patrickafonseca@gmail.com</a></li>
   </div>
 </div>
