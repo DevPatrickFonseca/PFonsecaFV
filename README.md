@@ -2,7 +2,7 @@
   
 # Hello all good! I'm Patrick Fonseca 🤓
 
-### I am a Full Stack Web Developer from Brazil.
+### I am a Full-Stack Web Developer from Brazil.
 
 </div>
 
