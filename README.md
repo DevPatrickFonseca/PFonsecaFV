@@ -85,7 +85,7 @@
 ##
 
 <div align="center">
-<h3>Languages, technologies and tools I'm currently learning:</h3>
+<h3>Languages, technologies and tools I'm currently studying:</h3>
 <div align="center">
 <p align="center">
   <a href="https://github.com/PFonsecaFV/PFonsecaFV">
