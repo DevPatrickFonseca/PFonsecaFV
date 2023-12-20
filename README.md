@@ -25,9 +25,9 @@
 <h3>Contact me:</h3>
   <a href="https://www.linkedin.com/in/patrickfonseca/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://PFonsecaFV.github.io/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%230A6908?style=for-the-badge" style="max-width: 100%;" >
-  </a>
+  <!--  <a href="https://PFonsecaFV.github.io/" target="_blank" rel="noopener"> -->
+  <!--    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%230A6908?style=for-the-badge" style="max-width: 100%;" > -->
+  <!--  </a> -->
 </div>
 
 ##
